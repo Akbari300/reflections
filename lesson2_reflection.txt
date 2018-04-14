@@ -1,0 +1,12 @@
+what happened when you initialize a repository? why do you need to do that?
+when initializing a repository, it put all file under a directory and create a 
+.get file to keep track of version-control.
+
+
+
+how is the staging area different from the working directory and the repository?
+what value do you think it offer?
+
+staging area is a middle stage between working directory and repository 
+which we add file to be committed together. it offer to add file and remove file
+from committing together. 
