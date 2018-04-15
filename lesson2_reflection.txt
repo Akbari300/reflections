@@ -15,3 +15,9 @@ from committing together.
 how you can use the staging area to make sure you have one commit per logical change?
 the staging area provide the space to add our new changes file before commit to repository. 
 before commit we can use the command (git diff) to see the new changes and between working directory and staging area, and also we can use (git diff --stagged) to see the changes between the staging area and repository to make sure we commit per logical change. 
+
+
+what are some situation when branches would be helpful in keeping your history organized? how would branches help? 
+when we want to have a seperate demo regarding our project or try to experment a new extra thing out of normal thinkg. 
+
+
