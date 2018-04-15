@@ -10,3 +10,8 @@ what value do you think it offer?
 staging area is a middle stage between working directory and repository 
 which we add file to be committed together. it offer to add file and remove file
 from committing together. 
+
+
+how you can use the staging area to make sure you have one commit per logical change?
+the staging area provide the space to add our new changes file before commit to repository. 
+before commit we can use the command (git diff) to see the new changes and between working directory and staging area, and also we can use (git diff --stagged) to see the changes between the staging area and repository to make sure we commit per logical change. 
