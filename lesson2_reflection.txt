@@ -21,3 +21,8 @@ what are some situation when branches would be helpful in keeping your history o
 when we want to have a seperate demo regarding our project or try to experment a new extra thing out of normal thinkg. 
 
 
+how the diagram help you to visualize the branch structure?
+the command git log --graph --oneline branch_name branch_name list all the commits which particular to specific branch and also list all branch which are common to the branches
+
+
+
