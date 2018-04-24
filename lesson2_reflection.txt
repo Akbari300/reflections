@@ -25,4 +25,8 @@ how the diagram help you to visualize the branch structure?
 the command git log --graph --oneline branch_name branch_name list all the commits which particular to specific branch and also list all branch which are common to the branches
 
 
+what is the result of merging to branches together? why do you represent it in the diagram the way we do? 
+merging tobranches into one, result into combining all the changes of two branches together, by we can say merge easy-mode into master. 
+
+
 
