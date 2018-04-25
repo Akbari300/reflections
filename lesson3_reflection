@@ -15,4 +15,8 @@ fork is used for coping fron one GitHub account to another GitHub account, clone
 
 
 what is the benefits of having a copy of the last known state of the remote stored locally? 
-when we are getting far from internet for a peroid of time. that is very interesting to have the last known state. and compare the local changes to distributed one.  
+when we are getting far from internet for a peroid of time. that is very interesting to have the last known state. and compare the local changes to distributed one.
+
+
+how would you collaborate without using git and GitHub? what would be easer and what would be harder? 
+i think collaboration without using github is very difficult and combining and everything is very very hard.   
